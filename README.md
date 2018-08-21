@@ -21,7 +21,7 @@ ML Engineer
 
 Either read the medium article or run the notebook on google colab or read the markdown file!
 
-
+Here is the [WIP](https://colab.research.google.com/github/AmoDinho/Imperial-Data-Science/blob/master/Course.ipynb#scrollTo=friM418q4S4-) as a Juypter Notebook
 
 ### How to go through courses?
 
