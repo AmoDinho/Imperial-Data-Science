@@ -22,6 +22,17 @@ ML Engineer
 Either read the medium article or run the notebook on google colab or read the markdown file!
 
 
+
+### How to go through courses?
+
+There are two ways you can do this all depending on your prefernce of the top-Down approach or bottom-up approach. Top-down will put you in the driver seat of an f1 car were you learn what research/production machine learning workflows are and how they can be applied to solve business problems. The bottom-up approach will start you off at the bare essentials and teach all the separate pieces of the puzzle that will fit together. 
+
+The later approach is how most education systems are structured and the main reason why I did not got back to Univeristy. There are more efficient ways of learning and implementing a skill I feel. However, I delibrartely put the bottom-up approach here for those who have no idea what programming is and need a safe position to start from and also for those who want to brush up on the fundamentals or figure out a specific library writes its Python functions in a similar way.
+
+Internet connection & browser. 
+
+You need documenrt and do a lot of your own work. Make sure you apply what you have learnt to use cases other than what you have learnt. Eventually you will have an extensive portfolio to track tangiable progress. 
+
 ## When?
 The duration is based on your consisty in being able to understand/implement/document your work. Courses come with their own recommended completion time, you need to make sure you can do it in that time and budget for the time it will take for you reimplement what you've learnt to your own problem and document the results. 
 
