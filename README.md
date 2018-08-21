@@ -1,7 +1,7 @@
 # Imperial-Data-Science
 Imperial Data Science plots a way forward to championing your contribution to Data Science. 
 
-STILL A  WIP!!!
+
 
 ![earths atmposhere](https://images.unsplash.com/photo-1520113412646-04fc68c0bc21?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d56ec3e30628513fa9b3dc03c68830d5&auto=format&fit=crop&w=1351&q=80)
 
