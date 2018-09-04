@@ -47,7 +47,7 @@ Here is the [WIP](https://colab.research.google.com/github/AmoDinho/Imperial-Dat
 
 It provides all the links to courses for you to complete. 
 
-A few tips on how to set most things up are [here](Imperial-Data-Science/workspace setup.md)
+A few tips on how to set most things up are [here](https://github.com/AmoDinho/Imperial-Data-Science/blob/master/workspace%20setup.md)
     
 
 ## How to go through courses?
