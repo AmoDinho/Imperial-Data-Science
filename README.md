@@ -47,6 +47,9 @@ Here is the [WIP](https://colab.research.google.com/github/AmoDinho/Imperial-Dat
 
 It provides all the links to courses for you to complete. 
 
+A few tips on how to set most things up are [here](Imperial-Data-Science/workspace setup.md)
+    
+
 ## How to go through courses?
 
 There are two ways you can do this all depending on your prefernce of the top-Down approach or bottom-up approach. Top-down will put you in the driver seat of an f1 car were you learn what research/production machine learning workflows are and how they can be applied to solve business problems. The bottom-up approach will start you off at the bare essentials and teach all the separate pieces of the puzzle that will fit together. 
