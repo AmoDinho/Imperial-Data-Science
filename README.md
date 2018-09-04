@@ -1,17 +1,26 @@
 
+# Imperial Data Science  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/price/ogffaloegjglncjfehdfplabnoondfjo.svg)
 
+This is an open-source Data Science curriculum that uses the Top-Down approach to expose you to becoming a Cloud-Native Data Scienist! It will aid you in learning to master industry standard ML libraries like Fast.ai, TensorFlow, Microsoft's Coginitive Toolkit and many more!
 
 
 ![earths atmposhere](https://images.unsplash.com/photo-1520113412646-04fc68c0bc21?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d56ec3e30628513fa9b3dc03c68830d5&auto=format&fit=crop&w=1351&q=80)
 
 
-# Imperial-Data-Science
+
 
 This repo is my attempt to share my curriculum for becoming a Data Scienist. There are many problems when trying to learn a profession in that note many clear paths are out there that are considerate of people's financial situation. This is a major stumbling block when first starting in tech. 
 
 Personally, universities are becoming obsolete as they are noted geared towards equiping students with the skills and workflows to be able to contribute to the Data Science community. There are some educators who are teaching Data science at universities propely but they are too few!
 
 Most importantly, just because 100% of the course content is free does not mean the quality is poor either. Majority of the content is from Kaggle, Microsoft, Fast.ai and Google. All these organisations have made an effort to share their knowledge of implementing production grade ML to put the power of ML in everyones hands to improve the quality of ML for the public. This means that anyone with the ability to program does not need the expert knowledge to make impactful ML solutions!
+
+## Table of Contents
+
+- [Why Would Learn Data Sceince?](#why-would-learn-data-sceince)
+- [How?](#how)
+- [How to go through courses?](#how-to-go-through-courses)
+- [When?](#when)
 
 ## Why Would Learn Data Sceince?
 Data Science is a broad term used to define a field with many overlaping disciplines. Most importantly, this content focuses on Machine Learning (ML). 
@@ -34,7 +43,7 @@ Here is the [WIP](https://colab.research.google.com/github/AmoDinho/Imperial-Dat
 
 It provides all the links to courses for you to complete. 
 
-### How to go through courses?
+## How to go through courses?
 
 There are two ways you can do this all depending on your prefernce of the top-Down approach or bottom-up approach. Top-down will put you in the driver seat of an f1 car were you learn what research/production machine learning workflows are and how they can be applied to solve business problems. The bottom-up approach will start you off at the bare essentials and teach all the separate pieces of the puzzle that will fit together. 
 
