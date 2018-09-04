@@ -12,7 +12,7 @@ This is an open-source Data Science curriculum that uses the Top-Down approach t
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Why Would Learn Data Sceince?](#why-would-learn-data-sceince)
+- [Why Would I Learn Data Sceince?](#why-would-i-learn-data-sceince)
 - [How?](#how)
 - [How to go through courses?](#how-to-go-through-courses)
 - [When?](#when)
@@ -26,7 +26,7 @@ Personally, universities are becoming obsolete as they are noted geared towards 
 Most importantly, just because 100% of the course content is free does not mean the quality is poor either. Majority of the content is from Kaggle, Microsoft, Fast.ai and Google. All these organisations have made an effort to share their knowledge of implementing production grade ML to put the power of ML in everyones hands to improve the quality of ML for the public. This means that anyone with the ability to program does not need the expert knowledge to make impactful ML solutions!
 
 
-## Why Would Learn Data Sceince?
+## Why Would I Learn Data Sceince?
 Data Science is a broad term used to define a field with many overlaping disciplines. Most importantly, this content focuses on Machine Learning (ML). 
 
 ML is using data to understand events and teach computers to recognize patterns the same way our brains do.
