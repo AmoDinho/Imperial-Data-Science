@@ -9,18 +9,22 @@ This is an open-source Data Science curriculum that uses the Top-Down approach t
 
 
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Why Would Learn Data Sceince?](#why-would-learn-data-sceince)
+- [How?](#how)
+- [How to go through courses?](#how-to-go-through-courses)
+- [When?](#when)
+
+## Introduction
+
 This repo is my attempt to share my curriculum for becoming a Data Scienist. There are many problems when trying to learn a profession in that note many clear paths are out there that are considerate of people's financial situation. This is a major stumbling block when first starting in tech. 
 
 Personally, universities are becoming obsolete as they are noted geared towards equiping students with the skills and workflows to be able to contribute to the Data Science community. There are some educators who are teaching Data science at universities propely but they are too few!
 
 Most importantly, just because 100% of the course content is free does not mean the quality is poor either. Majority of the content is from Kaggle, Microsoft, Fast.ai and Google. All these organisations have made an effort to share their knowledge of implementing production grade ML to put the power of ML in everyones hands to improve the quality of ML for the public. This means that anyone with the ability to program does not need the expert knowledge to make impactful ML solutions!
 
-## Table of Contents
-
-- [Why Would Learn Data Sceince?](#why-would-learn-data-sceince)
-- [How?](#how)
-- [How to go through courses?](#how-to-go-through-courses)
-- [When?](#when)
 
 ## Why Would Learn Data Sceince?
 Data Science is a broad term used to define a field with many overlaping disciplines. Most importantly, this content focuses on Machine Learning (ML). 
