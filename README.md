@@ -1,10 +1,12 @@
+![Logo](https://github.com/AmoDinho/Imperial-Data-Science/blob/master/logo.png)
+
+
 
 # Imperial Data Science  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/price/ogffaloegjglncjfehdfplabnoondfjo.svg)
 
 This is an open-source Data Science curriculum that uses the Top-Down approach to expose you to becoming a Cloud-Native Data Scienist! It will aid you in learning to master industry standard ML libraries like Fast.ai, TensorFlow, Microsoft's Coginitive Toolkit and many more!
 
 
-![earths atmposhere](https://images.unsplash.com/photo-1520113412646-04fc68c0bc21?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d56ec3e30628513fa9b3dc03c68830d5&auto=format&fit=crop&w=1351&q=80)
 
 
 
