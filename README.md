@@ -1,4 +1,4 @@
-![Logo](https://github.com/AmoDinho/Imperial-Data-Science/blob/master/logo.png)
+![Logo](https://github.com/AmoDinho/Imperial-Data-Science/blob/master/logo2.png)
 
 
 
