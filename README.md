@@ -1,6 +1,8 @@
-![Logo](https://github.com/AmoDinho/Imperial-Data-Science/blob/master/logo2.png)
 
 
+<h1 align="center">
+    <img  alt="Imperial Data Science"  src="https://github.com/AmoDinho/Imperial-Data-Science/blob/master/logo2.png">
+ </h1>
 
 # Imperial Data Science  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/price/ogffaloegjglncjfehdfplabnoondfjo.svg)
 
