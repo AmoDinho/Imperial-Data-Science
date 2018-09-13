@@ -1,6 +1,8 @@
 # Workspace Setup 📡
 
-Below are suggested workflows on how to complete the courses and tips on how to set up your environment. 
+Below are suggested workflows on how to complete the courses and tips on how to set up your environment. Please bear in mind that you will use the command line to spin up resources on these different platforms fairly often. There is no particular resource for learning the command line but more you do it you will get used to it and if you need something you can just Google it. 
+
+
 
 ## Google Cloud Platform (GCP)
 
@@ -29,13 +31,23 @@ A deep learning virtual machine is preconfigured with all the necessary ML frame
 
 [Documentation](https://cloud.google.com/deep-learning-vm/docs/)
 
+[Cloud Lab](https://cloud.google.com/datalab/)
+
+This is Google's Jupyter Notebook as a service. It allows you use all the Jupyter features and lets you intergrate with all og GCPs different services like BigQuery etc. 
+
 ## Azure
 
 [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)
 
 Azure's pre-configured VMs are perfect for data sciensits! They come packed with all the tools you need like Anaconda, deep learning tools like TensorFlow, it has data platform and visualization tools like Spark, SQL Server, PowerBI and many more! You can choose between a Windows or Linux machine. Obvisouly if you're just doing basic ML experiments or Deep Learning projects you need configure the machine according to your needs. 
 
+[Azure Notebooks](https://notebooks.azure.com/)
 
+This is Microsoft's host Jupyter Notebook as a service. It is perfect if you want to host everything in the cloud and as usual it comes with all the necessary goodies needed to create Data Science experiments. You're able to share them too. You can also create and Deploy a cloud service too.
+
+[Machine Learning Studio](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
+
+This is a really powerfull tool that allows you drag and drop different processes that envolve creating a ML model. There are different modules that take care of Data Cleaning for you and you can select from a wide range of ML models. You can then easily deploy your model as an HTTP endpoint! What is also great is that you explore other users solutions and customize them according to your own needs. 
 
 ## AWS
 
