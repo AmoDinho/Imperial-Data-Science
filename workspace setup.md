@@ -51,6 +51,16 @@ This is a really powerfull tool that allows you drag and drop different processe
 
 ## AWS
 
+[AWS Deep Learning AMIs](https://aws.amazon.com/machine-learning/amis/?nc2=h_m1)
+
+This is a P3 EC2 instance especially made for Deep Learning. You can either setup a CONDA or BASE AMI. A CONDA AMI is preconfigured with pip deep learning frameworks and is avaiable in Ubuntu, Amazon Linux or Windows 2016. The BASE AMI is a clean instance that is available in Ubuntu or Amazon Linux. 
+
+
+
+[SageMaker](https://aws.amazon.com/sagemaker/?nc2=h_m1)
+
+SageMaker is a platform that allows you to build, train and deploy ML models at scale. It also includes a hosted Jupyter Notebook service to see your training data in S3. It also has popular frameworks like TensorFlow etc for you. It also has many common ML models for you to use or you can use your own. This is only scratching the surface of what SageMaker can offer!
+
 ## Kaggle
 
 ## FloydHub
